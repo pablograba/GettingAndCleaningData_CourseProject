@@ -156,5 +156,6 @@ averagePerActivityAndSubject <- ddply(testAndTrainData, c("Subject", "Activities
   #return the resulting  data frame
   df
   
-  write.table(df, row.names = F, file = "./averagePerActivityAndSubject.txt" )
+  
 })
+write.table(averagePerActivityAndSubject, row.names = F, file = "./averagePerActivityAndSubject.txt" )
