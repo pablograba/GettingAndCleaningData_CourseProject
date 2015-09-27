@@ -11,10 +11,10 @@ Description of the variables:
 - subject_testData: data frame containing the subjects related to test data
 - subject_trainData: data frame containing the subjects related to train data
 - testAndTrainData: is the whole data set of test and training data
--testData: is the whole test data set
--trainData: is the whole train data set
--x_test: contains the test data related to the variables
--x_train: contains the train data related to the variables
--y_test: contains the test data related to the activities
--y_train: contains the train data related to the activities
+- testData: is the whole test data set
+- trainData: is the whole train data set
+- x_test: contains the test data related to the variables
+- x_train: contains the train data related to the variables
+- y_test: contains the test data related to the activities
+- y_train: contains the train data related to the activities
 
