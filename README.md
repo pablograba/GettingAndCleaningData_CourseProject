@@ -5,7 +5,7 @@ This theCoursers'a  GettingAndCleaningData CourseProject Repo.
 Coursera Getting and Cleanning data course. 
 Course Project Script 
 
-Pablo Graterol
+pablograba
 sept 2015
 ===========================================
 The run_analysis script does the following:
